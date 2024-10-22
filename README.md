@@ -1,6 +1,6 @@
 # Real-time Dev Connect
 
-Welcome to the **Real-time Code Editor**! This collaborative web application enables multiple users to write and edit code simultaneously. Whether you're working on a team project or just coding with friends, this tool enhances productivity and fosters real-time collaboration.
+Welcome to the **Real-time Dev Connect**! This collaborative web application enables multiple users to write and edit code simultaneously. Whether you're working on a team project or just coding with friends, this tool enhances productivity and fosters real-time collaboration.
 
 
 ## 🚀 Features
@@ -32,12 +32,13 @@ To run this project locally, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/ShreyaChauhan1/My-Real-time-Code-Editor.git
+   git clone https://github.com/ShreyaChauhan1/Dev-Connect.git
+
 
 2. **Navigate to the project directory:**
 
    ```bash
-   cd My-Real-time-Code-Editor
+   cd Dev-Connect
    
 3. **Install dependencies:**
 
